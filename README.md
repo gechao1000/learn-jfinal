@@ -6,11 +6,8 @@
     * 全局配置
 
     * 启动项目
-    
  2. _JFinalGenerator
-    
-* 数据库表 => model，字典，_MappingKit
-    
+    * 数据库表 => model，字典，_MappingKit
 3. package.xml
 
    * maven package操作
